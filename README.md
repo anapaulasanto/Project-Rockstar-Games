@@ -1,4 +1,4 @@
-<h1 align="center">Rockstar Games GTA V Project</h1>
+<h1 align="center">Rockstar Games GTA V</h1>
 <h4 align="center"><a href="https://anapaulasanto.github.io/Project-Rockstar-Games/">Clique para visitar o projeto</a></h4>
 <br><br>
 
@@ -12,8 +12,9 @@
   <img alt="banner" title="banner" src="/src/imagens/banner1.png">
   <img alt="banner" title="banner" src="/src/imagens/banner2.png">
 </div>
-  
-<h3>Autor</h3>
+
+<br>
+<h2> 💻 Autor</h2>
 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/149811410?s=400&u=bb09c5d7f36aed097c3d8654b8d445ee587ed4b1&v=4" width="100px;" alt=""/>
  <br />
